@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/Kamal/StudioProjects/PuzzleGame1/app/build/intermediates/res/merged/debug/raw/tileclick.mp3",
+        "source": "/home/Kamal/StudioProjects/PuzzleGame1/app/src/main/res/raw/tileclick.mp3"
+    },
+    {
+        "merged": "/home/Kamal/StudioProjects/PuzzleGame1/app/build/intermediates/res/merged/debug/raw/cheer.mp3",
+        "source": "/home/Kamal/StudioProjects/PuzzleGame1/app/src/main/res/raw/cheer.mp3"
+    }
+]
